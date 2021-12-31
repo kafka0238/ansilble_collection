@@ -1,0 +1,5 @@
+---
+- name: Test module
+  my_own_module:
+    path: path
+    content: content
